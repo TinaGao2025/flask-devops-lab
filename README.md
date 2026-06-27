@@ -1,4 +1,4 @@
-# Flask DevOps Lab - Version A
+# Flask DevOps Lab - Resolved Version
 
 ## Usage
 
